@@ -89,4 +89,4 @@ async def youtube(ctx):
 
     await ctx.send(embed=embed)
 
-client.run("nLeGIq4ljhFpdCYLjS80TAtvw2xRcWFG")
+client.run("NzA5NzYyMjQyMjI0MTkzNTk2.XrqnmQ.25gfOMh5EDu142co0z2bXCshNjw")
